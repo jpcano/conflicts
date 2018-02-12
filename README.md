@@ -1,1 +1,6 @@
-# depcon
+# conflicts
+
+```
+npm install
+npm test
+```
